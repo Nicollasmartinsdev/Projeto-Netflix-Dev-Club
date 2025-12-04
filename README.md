@@ -1,4 +1,4 @@
-<h1>Este é um projeto meu feito em colaboração com o <a href="https://rodolfomori.com.br/"> Devclub </a></h1>
+<h1>Este é um projeto meu feito em colaboração com o <a href="https://rodolfomori.com.br/">Devclub</a></h1>
 <br>
 <br>
 <h1> Tecnologias utilizadas: </h1>
