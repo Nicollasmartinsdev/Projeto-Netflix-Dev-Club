@@ -1,6 +1,5 @@
-<h1>Este é um projeto meu feito em colaboração com o <a href="https://rodolfomori.com.br/">Devclub</a></h1>
-<br>
-<br>
+<h1> ​🎞️​ Netflix Clone </h1>
+<h2>Este é um projeto meu feito em colaboração com o <a href="https://rodolfomori.com.br/">Devclub</a></h2>
 <h1> Tecnologias utilizadas: </h1>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></>
