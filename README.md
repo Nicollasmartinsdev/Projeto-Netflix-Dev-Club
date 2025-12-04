@@ -1,4 +1,4 @@
-<h1>Este é mais um projeto feito em colaboração com o <a href="https://rodolfomori.com.br/"> Devclub </a></h1>
+<h1>Este é um projeto meu feito em colaboração com o <a href="https://rodolfomori.com.br/"> Devclub </a></h1>
 <br>
 <br>
 <h1> Tecnologias utilizadas: </h1>
@@ -7,7 +7,12 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></>
 <br>
+<h1> 🏠 Pagina Inicial: </h1>
+<br>
 <img src="img/netflix-page.png">
-
-<h4> Se trata de uma página clone bem simples do serviço de streaming Netflix. Conta com um trailer da série Stranger Things, uma função que permite ter acesso a mais informações sobre a série,
-  e um carrosel no qual podemos ver outros exemplos de filmes e séries disponíveis no catálogo. </h4>
+<br>
+<br>
+<h1> ℹ️ Mais Informações: </h1>
+<br>
+<img src="img/info-netflix.png"></>
+<h4> Esta página é um clone simples da interface da Netflix, recriado para fins de estudo. Ao acessar o site, o usuário é recebido com um destaque da série Stranger Things, incluindo um trailer em reprodução e uma seção com mais informações sobre a obra. Logo abaixo, há um carrossel funcional que exibe outros filmes e séries do catálogo, simulando a experiência visual da plataforma original. </h4>
